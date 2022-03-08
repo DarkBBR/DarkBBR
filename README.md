@@ -6,7 +6,7 @@
 
 =>Meu discord é BdarkBr#1476 se quiserem chamar para tirar alguma duvida...
 
-=>Meu server dó discord é https://discord.gg/9Vg2hRPA vou atualizar este link a cada repositório . 
+=>Meu server do discord é https://discord.gg/9Vg2hRPA vou atualizar este link a cada repositório . 
 
 =>Sou profissional em linguagem de progrmação, linguagem que eu mais uso é a JavaScript . 
 
