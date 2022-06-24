@@ -2,7 +2,7 @@
 
 =>Hello World? bom... eu me chamo Arthur mas sou bem conhecido como BdarkBR   
 
-=>Eu quero agradecer desde já algumas pessoas que me motivaram para eu criar um github -----{Rony}-----, -----{Renam}-----, -----{José}-----, -----{Everton}-----, -----{Bacon}---  {Heluan}-----                   
+=>Eu quero agradecer desde já as pessoas que vão me seguir nesta jornada coding :)                 
 
 =>Meu discord é BdarkBr#1476 se quiserem chamar para tirar alguma duvida...
 
