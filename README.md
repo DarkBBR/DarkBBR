@@ -8,7 +8,9 @@
 
 =>Meu server do discord é https://discord.gg/9Vg2hRPA vou atualizar este link a cada repositório . 
 
-=>Sou profissional em linguagem de progrmação, linguagem que eu mais uso é a JavaScript . 
+=>Sou profissional em linguagem de programação, as linguagens que eu mais uso é a HTML, CSS E JS . 
+
+=>Trabalho na Silver Stars junto com a minha equipe: Valentim, Iza e Rony
 
 =>Sou técnico em robótica e Mecatrônica . 
 
