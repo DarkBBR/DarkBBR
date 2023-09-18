@@ -1,4 +1,4 @@
-```Js
+```JS
 import React from "react";
 
 function DarkBR() {
