@@ -23,7 +23,7 @@ function DarkBR() {
 export default DarkBR;
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=18&start=true&vCenter=true&width=1000&lines=console.log("👋-Hello-Guys");+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=Random&size=18&start=true&vCenter=true&width=1000&lines=console.log("👋-Hello-Guys");+:%29)](https://git.io/typing-svg)
 
 <div>
   <a href="https://github.com/DarkBBR">
