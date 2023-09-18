@@ -1,4 +1,23 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=header"/>
+```Js
+import React from "react";
+
+function DarkBR() {
+  const message = {
+    dev: "⚡ Developer Full-Stack",
+    languages: ["JavaScript", "Java", "C++", "C#", "Ruby"],
+    frameworks: ["React.Js", "Next.Js", "Nest.Js", "Vue.Js", "Express.Js", "Tailwind CSS"],
+    system: "⚡ Windows"
+  };
+
+  return (
+    <div className="Arthur">
+      <h1>{message.work}</h1>
+    </div>
+  );
+}
+
+export default DarkBR;
+```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=console.log("BDarkBR");+:%29)](https://git.io/typing-svg)
 
