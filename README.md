@@ -11,7 +11,10 @@ function DarkBR() {
 
   return (
     <div className="Arthur">
-      <h1>{message.work}</h1>
+      <h1>{message.dev}</h1>
+      <h2>{message.languages}</h2>
+      <h3>{message.frameworks}</h3>
+      <h4>{message.system}</h4>
     </div>
   );
 }
