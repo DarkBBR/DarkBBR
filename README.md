@@ -45,4 +45,4 @@ export default BDarkBR;
 
 # Fim
 
-![Image](https://github.com/DarkBBR/DarkBBR/edit/main/gif.gif)
+![GIF](https://github.com/DarkBBR/DarkBBR/edit/main/gif.gif)
