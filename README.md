@@ -42,4 +42,7 @@ export default BDarkBR;
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 <a href="#"> <hr></hr>
+
 # Fim
+
+![image](https://github.com/DarkBBR/DarkBBR/edit/main/)
