@@ -36,12 +36,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://onstech.com.br/wp-content/uploads/2021/08/cropped-Logo_FINAL-5-192x192.png"/>](https://www.onstech.com.br/)
 
 **Técnico Eletrônico** \
-[**SpaceX**](https://www.onstech.com.br/) \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+[**ONsTech**](https://www.onstech.com.br/) \
 
 </div>
   <a href="#" ><hr></hr>
