@@ -29,15 +29,6 @@ export default BDarkBR;
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=DarkBBR&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://onstech.com.br/wp-content/uploads/2021/08/cropped-Logo_FINAL-5-192x192.png"/>](https://www.onstech.com.br/)
-
-**Técnico Eletrônico** \
-[**ONsTech**](https://www.onstech.com.br/) \
-
 </div>
   <a href="#" ><hr></hr>
 <h3>Languages</h3>
