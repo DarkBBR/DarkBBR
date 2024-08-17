@@ -25,12 +25,11 @@ export default BDarkBR;
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=Random&size=18&start=true&vCenter=true&width=1000&lines=console.log("👋-Hello-Guys");+:%29)](https://git.io/typing-svg)
 
-<div>
-  <a href="https://github.com/DarkBBR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkBBR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkBBR&layout=compact&langs_count=10&theme=dracula"/>
-  </a>
-</div>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=DarkBBR&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=DarkBBR&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>Trabalhando na ONsTech</p>
 
 </div>
   <a href="#" ><hr></hr>
