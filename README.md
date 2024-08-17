@@ -33,7 +33,7 @@ export default BDarkBR;
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.onstech.com.br/static/images/share.jpg"/>](https://www.onstech.com.br/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://onstech.com.br/wp-content/uploads/2021/08/cropped-Logo_FINAL-5-192x192.png"/>](https://www.onstech.com.br/)
 
 **Técnico Eletrônico** \
 [**SpaceX**](https://www.onstech.com.br/) \
