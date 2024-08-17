@@ -1,6 +1,6 @@
 # Sobre
 ```JS
-import React from "react";
+import React from "BDarBR";
 
 function BDarkBR() {
   const message = {
